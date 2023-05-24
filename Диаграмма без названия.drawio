@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T17:31:21.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UWUXpBrqtKS_3ueU1I_-" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T17:49:59.145Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kSNvf0ltvYSnB2PMw3y9" version="21.3.3" type="github">
   <diagram name="Страница 1" id="kP-wOBjOg15puJsNhDgH">
-    <mxGraphModel dx="845" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="728" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,9 +62,9 @@
         <mxCell id="2eI-ai_Qi3dzLqAZGrgW-22" value="Конец линии жизни" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="-200" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2eI-ai_Qi3dzLqAZGrgW-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="2eI-ai_Qi3dzLqAZGrgW-30" target="2eI-ai_Qi3dzLqAZGrgW-23">
+        <mxCell id="2eI-ai_Qi3dzLqAZGrgW-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="2eI-ai_Qi3dzLqAZGrgW-17" target="2eI-ai_Qi3dzLqAZGrgW-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135" y="320" as="sourcePoint" />
+            <mxPoint x="135" y="176.25" as="sourcePoint" />
             <mxPoint x="135" y="-30" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -74,16 +74,6 @@
         </mxCell>
         <mxCell id="2eI-ai_Qi3dzLqAZGrgW-29" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
           <mxGeometry x="295" y="320" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2eI-ai_Qi3dzLqAZGrgW-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="2eI-ai_Qi3dzLqAZGrgW-30">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135" y="320" as="sourcePoint" />
-            <mxPoint x="135" y="150" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2eI-ai_Qi3dzLqAZGrgW-30" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="107.5" y="200" width="55" height="7.5" as="geometry" />
         </mxCell>
         <mxCell id="2eI-ai_Qi3dzLqAZGrgW-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2eI-ai_Qi3dzLqAZGrgW-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
